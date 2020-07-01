@@ -30,3 +30,5 @@ const {Consumer : ColorConsumer} = ColorContext;
 export {ColorProvider, ColorConsumer};
 
 export default ColorContext;
+
+// 15.3.1 보기
